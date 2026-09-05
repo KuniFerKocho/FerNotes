@@ -1,6 +1,6 @@
 # FerNotes
 
-My first project
+#My first project
 
 import tkinter as tk
 from tkinter import colorchooser, filedialog, simpledialog
